@@ -1,0 +1,21 @@
+{
+  "name": "raiden-shogun-theme",
+  "displayName": "Raiden Shogun Theme",
+  "description": "Riaden SHogun Theme (From Genshin Impact)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Raiden Shogun Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Raiden Shogun Theme-color-theme.json"
+      }
+    ]
+  }
+}
